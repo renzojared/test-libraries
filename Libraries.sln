@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateDocument", "GenerateDocument\GenerateDocument.csproj", "{A311CAED-0238-45C6-BD90-E497C089FEB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateDocument.Test", "GenerateDocument.Test\GenerateDocument.Test.csproj", "{34A46E46-E792-458C-A722-61E4ADBFFF28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,11 @@ Global
 		{A311CAED-0238-45C6-BD90-E497C089FEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A311CAED-0238-45C6-BD90-E497C089FEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A311CAED-0238-45C6-BD90-E497C089FEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A46E46-E792-458C-A722-61E4ADBFFF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A46E46-E792-458C-A722-61E4ADBFFF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A46E46-E792-458C-A722-61E4ADBFFF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A46E46-E792-458C-A722-61E4ADBFFF28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal

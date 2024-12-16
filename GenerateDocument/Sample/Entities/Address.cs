@@ -1,8 +1,9 @@
-namespace GenerateDocument.Entities;
+namespace GenerateDocument.Sample.Entities;
 
 public record Address(
     string CompanyName,
+    string Street,
     string City,
     string State,
-    object Email,
+    string Email,
     string Phone);

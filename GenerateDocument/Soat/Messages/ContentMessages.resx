@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="PolicyNumberField" xml:space="preserve">
+        <value>Nro póliza certificado:</value>
+    </data>
+    <data name="FromInitialField" xml:space="preserve">
+        <value>Desde:</value>
+    </data>
+    <data name="ToInitialField" xml:space="preserve">
+        <value>Hasta:</value>
+    </data>
+    <data name="FromFinalField" xml:space="preserve">
+        <value>Desde:</value>
+    </data>
+    <data name="ToFinalField" xml:space="preserve">
+        <value>Hasta:</value>
+    </data>
+    <data name="PlateField" xml:space="preserve">
+        <value>Placa:</value>
+    </data>
+    <data name="CategoryField" xml:space="preserve">
+        <value>Categoría / Clase:</value>
+    </data>
+    <data name="UseField" xml:space="preserve">
+        <value>Uso:</value>
+    </data>
+    <data name="SeriesField" xml:space="preserve">
+        <value>Vin nro de serie:</value>
+    </data>
+    <data name="FullNameField" xml:space="preserve">
+        <value>Nombres:</value>
+    </data>
+    <data name="PremiumField" xml:space="preserve">
+        <value>Importe de la prima:</value>
+    </data>
+    <data name="DateOfIssueField" xml:space="preserve">
+        <value>Fecha de emisión:</value>
+    </data>
+    <data name="TimeOfIssueField" xml:space="preserve">
+        <value>Hora de emisión:</value>
+    </data>
+    <data name="SectionPolicyHolder" xml:space="preserve">
+        <value>VEHÍCULO ASEGURADO</value>
+    </data>
+    <data name="SectionPolicyDetail" xml:space="preserve">
+        <value>VIGENCIA DE PÓLIZA</value>
+    </data>
+    <data name="InsuranceCompany" xml:space="preserve">
+        <value>COMPAÑÍA DE SEGUROS</value>
+    </data>
+    <data name="EmergencyCase" xml:space="preserve">
+        <value>EN CASO DE EMERGENCIA</value>
+    </data>
+    <data name="ValidityMessage" xml:space="preserve">
+        <value>Vigencia de uso exclusivo para control policial</value>
+    </data>
+    <data name="ContactNumber" xml:space="preserve">
+        <value>01 604 2000</value>
+    </data>
+    <data name="Message1" xml:space="preserve">
+        <value>CERTIFICADO SOAT</value>
+    </data>
+    <data name="Message2" xml:space="preserve">
+        <value>CONTROL POLICIAL</value>
+    </data>
+</root>

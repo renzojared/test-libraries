@@ -1,4 +1,4 @@
-namespace GenerateDocument.Entities;
+namespace GenerateDocument.Sample.Entities;
 
 public record InvoiceModel(
     int InvoiceNumber,
